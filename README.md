@@ -9,6 +9,10 @@ My Power Automate Workflow
 
 </details>
 
-Convert HTML to PDF<br>
+<details>
+  <summary>Convert HTML to PDF</summary>
+  <br>
+  
 ![image](https://user-images.githubusercontent.com/19554935/83697081-0b512480-a5cc-11ea-90fc-f0416f2b2c74.png)
-***
+
+</details>
